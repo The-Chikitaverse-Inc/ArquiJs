@@ -1,0 +1,23 @@
+{
+  "name": "arquijs",
+  "version": "1.0.3",
+  "description": "Pacote npm de matematica avançada",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Chikitaverse-Inc/ArquiJs.git"
+  },
+  "keywords": [],
+  "author": "dvcDaniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Chikitaverse-Inc/ArquiJs/issues"
+  },
+  "homepage": "https://github.com/The-Chikitaverse-Inc/ArquiJs#readme"
+}
